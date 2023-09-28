@@ -1,3 +1,10 @@
+# Getting started
+First time: npm install
+
+Every time: npm run dev
+
+Build: npm run build
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
